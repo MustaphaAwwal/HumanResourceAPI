@@ -76,6 +76,7 @@ HTTP 200 OK
     },
     "status": "success"
 }
+```
 
 ### Update (PATCH /api/:user_id)
 - **HTTP Method**: PATCH
