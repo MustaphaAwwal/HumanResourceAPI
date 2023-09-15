@@ -30,5 +30,5 @@ The API will be accessible locally at the specified endpoints on port 80.
 
 Use the API's endpoints to interact with human resources data. You can perform actions such as retrieving all records, getting a person by ID, updating a person's information, deleting a person, and creating a new person.
 
-For more detailed information and examples of API usage, please refer to the [documentation.md](./documentation.md) file.
+For more detailed information and examples of API usage, please refer to the [documentation.md](./DOCUMENTATION.md) file.
 
