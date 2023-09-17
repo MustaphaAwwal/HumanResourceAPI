@@ -42,6 +42,6 @@ func main() {
 	humanRouter.HumanRoute(router)
 	l.Println("Starting server on port 80")
 	
-	server.Run("localhost:80")	
+	server.Run(":80")	
 	
 }
